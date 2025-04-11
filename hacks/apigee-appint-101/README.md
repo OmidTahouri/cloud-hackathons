@@ -120,7 +120,7 @@ Add API Key security to the Apigee proxy
 - API Key policy documentation (https://cloud.google.com/apigee/docs/api-platform/reference/policies/verify-api-key-policy)
 - Attaching a policy to a proxy (https://cloud.google.com/apigee/docs/api-platform/develop/attaching-and-configuring-policies-management-ui)
 
-## Challenge 3: Test the end-to-end flow
+## Challenge 4: Test the end-to-end flow
 
 ### Pre-requisites
 
